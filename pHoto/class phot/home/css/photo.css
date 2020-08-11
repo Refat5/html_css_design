@@ -1,0 +1,104 @@
+*
+{
+    margin: 0px;
+    padding: 0px auto;
+    
+}
+.head-photo img
+{
+    height: 500px;
+    width: 100%;
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.list
+{
+    height: 150px;
+    width: 100%;
+   
+}
+.list h3 
+{
+        background-color: black;
+   
+    border-radius: 49%;
+    padding:11px 10px 28px 80px;
+    font-size: 36px;
+    
+}
+.list :hover
+{
+    background-color: darkblue;
+   font-size: 40px;
+}
+.list h3 a
+{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.list h3 spn
+{
+        font-size: 78px;
+    color: dimgrey;
+    font-weight: bold;
+}
+h1
+{
+    color: #58627C;
+    font-size: 80px;
+    font-style: oblique;
+    margin-left: 340px;
+    margin-top: 4%;
+}
+h1 spn
+{
+    color: #B5422F;
+    font-size: 130px;
+    font-style: italic;
+}
+h1 spn1
+{
+    color: #C2A7AA;
+    font-size: 124px;
+    
+}
+.overlay
+{
+    height: 1000px;
+    width: 100%;
+    background-image: url(../image/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 3%;
+    position: relative;
+    
+}
+.overlay:before
+{
+    height: 1000px;
+    width: 100%;
+    position: absolute;
+    content: "";
+    background-color: #293747;
+    opacity: 0.9;
+}
+.main-photo img
+{
+    height: 160px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 28%;
+    border: 2px solid #fff;
+}
+.text h2
+{
+        color: red;
+    font-size: 140px;
+    text-align: center;
+    margin-top: 4%;
+    font-style: oblique;
+    border: azure;
+    
+}

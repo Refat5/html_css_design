@@ -1,0 +1,173 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+
+}
+
+.fast-image {
+    height: 500px;
+    width:100%;
+    background-image: url(../image/slider.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.text h1 spn {
+        color: maroon;
+    font-family: sans-serif;
+    font-size: 98px;
+    font-weight: bold;
+}
+
+.text h1 spn-1 {
+    color: cyan;
+    font-family: inherit;
+    font-size: 218px;
+    font-weight: 600;
+}
+.sing-up
+{
+     background-color: ;
+    
+    
+    border-radius: 46%;
+    
+    
+    text-align: center;
+    font-family: -webkit-pictograph;
+}
+.sing-up:hover
+{
+    background-color: aqua;
+    
+    padding: 7px 23px 8px 28px;
+    border-radius: 46%;
+    color: whitesmoke;
+    
+    
+    text-align: center;
+    font-family: -webkit-pictograph;
+}
+.sing-up a
+{
+       
+    color: black;
+    text-decoration: none;
+    padding: 7px 23px 8px 28px;
+    
+}
+.sing-up a:hover
+{
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+
+
+.text h1 b {
+     color: darkred;
+    font-family: -webkit-body;
+    font-size: 95px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+.text h2 {
+    font-size: 76px;
+    margin-left: 600px;
+    color: dimgray;
+    width: 300px;
+}
+
+.text h2 b {
+    font-size: 106px;
+    color: deepskyblue;
+    font-family: -webkit-body;
+    font-weight: 100;
+}
+
+.second-image {
+    height: 50px;
+    width: 1170%;
+    background-image: url(../image/slider1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 16%;
+    position: relative;
+}
+
+
+
+.menu {
+    height: 70px;
+    width: 494px;
+    background-color: #F0DFD0;
+    margin-left: 300px;
+    margin-top: 1%;
+}
+
+
+.menu ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu ul li {
+    float: left;
+    border-right: 1px solid #fff;
+}
+
+.menu ul li a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 18px;
+    display: block;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    font-style: italic;
+
+
+}
+
+.menu ul li a i {
+    padding-right: 5px;
+    font-size: 29px;
+
+}
+
+.menu ul li a:hover {
+    background-color: cyan;
+    transition: 1s;
+    color: whitesmoke;
+
+
+}
+
+.menu ul li ul {
+    position: absolute;
+    background-color: wheat;
+    min-width: 15px;
+    display: none;
+    margin-top: -500000000000000px;
+}
+
+.menu ul li ul li {
+    float: none;
+}
+
+.menu ul li:hover ul {
+    display: block;
+    margin: 0px;
+    transition: 2s;
+}
+
+.logo img {
+    height: 60px;
+    width: 60px;
+    margin-top: -175px;
+    margin-left: 30px;
+}

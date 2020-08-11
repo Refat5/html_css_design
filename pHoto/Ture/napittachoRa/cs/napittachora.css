@@ -1,0 +1,63 @@
+*
+{
+    margin: 0px auto;
+    padding: 0px;
+}
+.head_photo 
+{
+    height: 700px;
+    width: 100%;
+    background-image: url(../image/fast.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.head-text
+{
+   text-align: center;
+    color: white;
+    font-size: bold;
+    font-weight: 700;
+    margin-top: 6%;
+}
+.hudai
+{
+        border: 9px solid #DEF0C1;
+}
+.slider-show img
+{
+    height: 600px;
+    width: 100%;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.second-photo
+{
+    height: 1000px;
+    width: 100%;
+    background-image: url(../image/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+   
+}
+.second-photo:before
+{
+       height: 1000px;
+    width: 100%;
+    position: absolute;
+    content: "";
+    background-color: black;
+    opacity: 0.77;
+}
+.singal img
+{
+    height: 170px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #FBB03B;
+    margin-top: 5%;
+}

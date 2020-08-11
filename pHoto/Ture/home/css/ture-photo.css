@@ -1,0 +1,185 @@
+*
+{
+    margin: 0px auto;
+    padding: 0px;
+    
+}
+.head-phot img
+{
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.second-photo
+{
+    height: 1000px;
+    width: 100%;
+    background-image: url(../image/GEAK_20180203_162018.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 6%;
+    position: relative;
+}
+.second-photo:before
+{
+    height: 1000px;
+    width: 100%;
+    position: absolute;
+    content: "";
+    background-color: darkslategray;
+    opacity: 0.8;
+}
+.text h1
+{
+    color: white;
+    text-align: center;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-style: unset;
+    font-weight: 700;
+    margin-top: 3%;
+}
+.text h1 spn
+{
+    color: green;
+    font-weight: 900;
+    margin-top: 2%;
+    font-style: oblique;
+}
+
+.slide
+{
+    height: 800px;
+    width: 100%;
+    margin-top: 2%;
+}
+.slide-image img
+{
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+    position: relative;
+}
+.slide-image img:hover
+{
+    background-image: url(../image/napittachora1.jpg);
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+     
+}
+.slide-image1 img
+{
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image1 img:hover
+{
+    background-image: url(../image/ghuliyakhali1.jpg);
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image2 img
+{
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image2 img:hover
+{
+    background-color: aqua;
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image3 img
+{
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image3 img:hover
+{
+    background-image: url(../image/seeworld1.jpg);
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image4 img
+{
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image4 img:hover
+{
+    background-image: url(../image/voyaliya1.jpg);
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image5 img
+{
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;  
+}
+.slide-image5img:hover
+{
+    background-color: firebrick;
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;
+  
+}
+
+
+.text h2
+{
+    color: white;
+    text-align: center;
+    font font-weight:600;
+    
+}
+.text a
+{
+    margin-top: 50px;
+    height: 53px;
+    width: 190px;
+    font-size: 17px;
+    text-decoration: none;
+    color: white;
+    background-color: #F05F40;
+    padding: 10px 13px 10px 12px;
+    border-radius: 20px;
+    margin: 28%;
+    
+}

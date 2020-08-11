@@ -1,0 +1,75 @@
+*
+{
+    margin: 0px auto;
+    padding: 0px;
+}
+.head_photo 
+{
+    height: 700px;
+    width: 100%;
+    background-image: url(../image/fast.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.head-text
+{
+   text-align: center; 
+    color: whitesmoke;
+    font-size: bold;
+    font-weight: 700;
+    margin-top: 6%;
+}
+.hudai
+{
+        border: 12px solid whitesmoke;
+}
+.slider-show img
+{
+    height: 600px;
+    width: 100%;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.second-photo
+{
+    height: 1000px;
+    width: 100%;
+    background-image: url(../image/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+   
+}
+.second-photo:before
+{
+       height: 1000px;
+    width: 100%;
+    position: absolute;
+    content: "";
+    background-color: #3C3F41;
+    opacity: 0.7;
+}
+.singal img
+{
+    height: 170px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid skyblue;
+    margin-top: 5%;
+}
+.text h1
+{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+     padding: 10px 10px 10px 10px;
+    border-radius: 100%;
+    
+    font-weight: 600;
+   
+    font-style: italic;
+}
